@@ -1,0 +1,95 @@
+#avatar {
+  width: 200px;
+}
+
+.contact {
+  width: 200px;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+}
+
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  margin: 4em;
+  margin-top: 2em;
+}
+
+.indent {
+  margin-left: 2em;
+}
+
+#header {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-transform: lowercase;
+  font-size: 2.7em;
+  letter-spacing: -0.08em;
+  color: #CCC;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding-bottom: .3em;
+}
+
+ul li {
+  list-style-type: square;
+  list-style-image: url(/images/components/bullets/quad.png);
+}
+
+#nav {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #333333;
+  padding-bottom: .4em;
+  border-bottom: 1px dotted #BBB;
+}
+
+/* center library image */
+
+#content {
+  margin-top: 2em;
+}
+
+h3 {
+  color: #333333;
+  margin-bottom: 4px;
+}
+
+h4 {
+  color: #333333;
+  margin-bottom: 4px;
+}
+
+/*  links */
+a {
+  text-decoration:none;
+}
+
+a.idem {
+  text-decoration: none;
+  color: gray;
+}
+
+a:link { color: blue; }
+a:visited { color: blue; }
+a:hover { color: white; background-color:blue; text-decoration:none; }
+a:active { color: white; background-color:blue; text-decoration:none; }
+
+a.nodec {
+  color: #333333;
+  text-decoration:none;
+  background-color: white;
+}
+
+img.centered {
+  margin-top: 6em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
