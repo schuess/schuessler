@@ -2,6 +2,14 @@
   width: 200px;
 }
 
+li {
+  padding-bottom: .3em;
+}
+
+.no-bullet {
+  list-style-type: none;
+}
+
 .contact {
   width: 200px;
   text-align: center;
@@ -15,6 +23,18 @@ body {
   margin: 4em;
   margin-top: 2em;
 }
+
+.code {
+  font-family: Inconsolata, Courier, monospace;
+  font-size: 12pt;
+  background-color: #F5F5F5;
+}
+
+.big {
+  font-family: Inconsolata, Courier, monospace;
+  font-size: 24pt;
+}
+
 
 .indent {
   margin-left: 2em;
@@ -31,15 +51,6 @@ body {
   padding: 0;
 }
 
-li {
-  padding-bottom: .3em;
-}
-
-ul li {
-  list-style-type: square;
-  list-style-image: url(/images/components/bullets/quad.png);
-}
-
 #nav {
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-weight: bold;
@@ -50,6 +61,10 @@ ul li {
 }
 
 /* center library image */
+
+div.c {
+text-align: center;
+}
 
 #content {
   margin-top: 2em;
@@ -93,3 +108,36 @@ img.centered {
   margin-right: auto;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blockquote::before {
+  content: "\201C";
+  display: block;
+  font-size: 50px;
+  font-family: Times, serif;
+  left: -25px;
+  top: -20px;
+  position: relative;
+  height: 0;
+  opacity: 0.1;
+}
+
+.blockquote {
+  max-width: 600px;
+  text-align: left;
+  margin: 20px;
+  padding: 20px;
+  font-style: italic;
+}
+
+.attribution {
+  max-width: 600px;
+  text-align: right;
+  padding: 5px;
+  margin-top: -35px;
+  margin-botton: 20px;
+}
