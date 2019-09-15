@@ -35,6 +35,9 @@ body {
   font-size: 24pt;
 }
 
+.bigger {
+  font-size: 120pt;
+}
 
 .indent {
   margin-left: 2em;
@@ -141,4 +144,14 @@ img.centered {
   padding: 5px;
   margin-top: -35px;
   margin-botton: 20px;
+}
+
+table, th, td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 4px;
+  text-align: left;
 }

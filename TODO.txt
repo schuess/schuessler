@@ -1,4 +1,6 @@
+optimize images: 1) make them look good, 2) make them load quickly, 3) make them easy for search engines to index; https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/
+add title elements to anchors so tool tips show
 look into using nav and footer tags
 narrow max width for all documents -- leave wide whitespace margins (wide enough for nav links)
 css grey out nav links when at beginning or end
-
+figure out how to center html table without adding extra box
