@@ -1,0 +1,1 @@
+look into using nav and footer tags
