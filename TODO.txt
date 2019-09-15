@@ -1,1 +1,4 @@
 look into using nav and footer tags
+narrow max width for all documents -- leave wide whitespace margins (wide enough for nav links)
+css grey out nav links when at beginning or end
+
