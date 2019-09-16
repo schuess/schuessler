@@ -6,13 +6,14 @@
     </head>
 <body>
 
-<div id="postnav">Anthropomobi</div>
 
 << | < | <a href="http://schuessler.org">home</a> | <a href="http://schuessler.org/switches-on-bits">></a> | <a href="http://schuessler.org/switches-on-bits">>></a>
 
+<h1>Anthropomobi</h1>
+
 <p>The first "medium" problem in <em>Cracking the Coding Interview</em> is this:</p>
 
-<h2><em>Challenge: Swap two numbers in place without using a temporary variable.</em></h2>
+<p><strong>Challenge: Swap two numbers in place without using a temporary variable.</strong></p>
 
 There are a number of ways to solve this problem, but the first that came to mind was XOR swap:
     <ul class="code">
@@ -20,6 +21,7 @@ There are a number of ways to solve this problem, but the first that came to min
         <li class="no-bullet">y ^= x</li>
         <li class="no-bullet">x ^= y</li>
     </ul>
+
 <p>Why does this work? Here's how <a href="https://en.wikipedia.org/wiki/XOR_swap_algorithm" target="blank">Wikipedia</a> illustrates it:</p>
 
 <img src="./images/wiki.xor.swap.png" width="360px" class="center">
