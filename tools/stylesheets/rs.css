@@ -63,6 +63,16 @@ body {
   border-bottom: 1px dotted #BBB;
 }
 
+
+#postnav {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: charcoal;
+  padding-bottom: .4em;
+  border-bottom: 1px dotted #BBB;
+}
+
 /* center library image */
 
 div.c {

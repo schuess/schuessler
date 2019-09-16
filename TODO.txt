@@ -2,6 +2,7 @@
 create contact page
 add list of articles to root page
 
+add date released to html: sep 14 and sep 15
 move titles to use grey format
 change navigation to be consistent
 optimize images: 1) make them look good, 2) make them load quickly, 3) make them easy for search engines to index; https://www.jimdo.com/blog/optimize-website-images-for-better-design-seo/
@@ -14,4 +15,4 @@ figure out how to center html table without adding extra box
 review/cull shanghaibob and incorporate
 
 include ideas from Sep 14 journal in this list
-
+update css to add space after h1
