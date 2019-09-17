@@ -1,4 +1,3 @@
-
 create contact page
 add list of articles to root page
 
@@ -9,7 +8,7 @@ optimize images: 1) make them look good, 2) make them load quickly, 3) make them
 confirm that anthropomobi images are small enough/optimized
 add title elements to anchors so tool tips show
 look into using nav and footer tags
-narrow max width for all documents -- leave wide whitespace margins (wide enough for nav links)
+narrow max width for all posts -- leave wide whitespace margins (wide enough for nav links, even if I don't use them)
 css grey out nav links when at beginning or end of navigation
 figure out how to center html table without adding extra box
 review/cull shanghaibob and incorporate
