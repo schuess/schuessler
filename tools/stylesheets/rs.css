@@ -1,6 +1,15 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  margin: 4em;
+  margin-top: 2em;
+  max-width: 750px;
+}
+
 #avatar {
   width: 200px;
 }
+
 
 li {
   padding-bottom: .3em;
@@ -15,13 +24,6 @@ li {
   text-align: center;
   display: block;
   text-decoration: none;
-}
-
-body {
-  font-family: Verdana, Arial, Helvetica, sans-serif;
-  font-size: 10pt;
-  margin: 4em;
-  margin-top: 2em;
 }
 
 .code {
@@ -62,7 +64,6 @@ body {
   padding-bottom: .4em;
   border-bottom: 1px dotted #BBB;
 }
-
 
 #postnav {
   font-family: Verdana, Arial, Helvetica, sans-serif;
