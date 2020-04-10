@@ -1,5 +1,6 @@
 create contact page
 add list of articles to root page
+create a new favicon
 
 add date released to html: sep 14 and sep 15
 move titles to use grey format
