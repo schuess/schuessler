@@ -1,3 +1,7 @@
+move site to https?
+update all links? (or use redirect)
+get advice on static approach
+
 create contact page
 add list of articles to root page
 create a new favicon
