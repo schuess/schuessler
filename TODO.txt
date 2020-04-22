@@ -1,3 +1,6 @@
+create sed command to insert paragraphs
+create checklist: update title, update date, fix nav
+write script to show order of files by date
 move site to https?
 update all links? (or use redirect)
 get advice on static approach
