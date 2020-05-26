@@ -23,3 +23,10 @@ review/cull shanghaibob and incorporate
 
 include ideas from Sep 14 journal in this list
 update css to add space after h1
+
+
+Checklist for updating previous posts when publishing a new one:
+add publish date
+fix "next" links for previous posts
+fix "last" link for ALL previous posts
+set up and CHECK IN sch.us .htaccess with short link
