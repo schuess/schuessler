@@ -1,0 +1,150 @@
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  margin: 4em;
+  margin-top: 2em;
+  max-width: 750px;
+}
+
+#header {
+  font-weight: bold;
+  text-transform: lowercase;
+  font-size: 2.7em;
+  letter-spacing: -0.08em;
+  color: #CCC;
+}
+
+#nav {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #333333;
+  padding-bottom: 0.4em;
+  border-bottom: 1px dotted #BBB;
+}
+
+#avatar {
+  width: 200px;
+}
+
+#content {
+  margin-top: 2em;
+}
+
+li {
+  padding-bottom: 0.3em;
+}
+
+.no-bullet {
+  list-style-type: none;
+}
+
+.contact {
+  width: 200px;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+}
+
+.indent {
+  margin-left: 2em;
+}
+
+div.c {
+  text-align: center;
+}
+
+h3 h4 {
+  color: #333333;
+  margin-bottom: 4px;
+}
+
+a {
+  text-decoration:none;
+}
+
+a.idem {
+  text-decoration: none;
+  color: gray;
+}
+
+a:link { color: blue; }
+a:visited { color: blue; }
+a:hover { color: white; background-color:blue; text-decoration:none; }
+a:active { color: white; background-color:blue; text-decoration:none; }
+
+a.nodec {
+  color: #333333;
+  text-decoration:none;
+  background-color: white;
+}
+
+img.centered {
+  margin-top: 6em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blockquote::before {
+  content: "\201C";
+  display: block;
+  font-size: 50px;
+  font-family: Times, serif;
+  left: -25px;
+  top: -20px;
+  position: relative;
+  height: 0;
+  opacity: 0.1;
+}
+
+.blockquote {
+  max-width: 600px;
+  text-align: left;
+  margin: 20px;
+  margin-left: 35px;
+  padding: 20px;
+  font-style: italic;
+}
+
+.attribution {
+  max-width: 600px;
+  text-align: right;
+  padding: 5px;
+  margin-top: -35px;
+  margin-botton: 20px;
+}
+
+.code {
+  font-family: Inconsolata, Courier, monospace;
+  font-size: 12pt;
+  background-color: #F5F5F5;
+}
+
+.big {
+  font-family: Inconsolata, Courier, monospace;
+  font-size: 24pt;
+}
+
+.bigger {
+  font-size: 120pt;
+}
+
+table, th, td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 4px;
+  text-align: left;
+}
+
+.footnote {
+  font-size: 0.8em;
+}
