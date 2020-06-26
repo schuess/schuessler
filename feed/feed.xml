@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  <title>Robert Schuessler</title>
+  <link>http://schuessler.org</link>
+  <description>Recently on schuessler.org</description>
+  <generator>Handmade</generator>
+  <language>en-us</language>
+  <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+  <atom:link href="http://schuessler.org/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>I Memorize Things</title>
+    <link>http://schuessler.org/i-memorize-things</link>
+    <description>My family placed unusual demands on memory. We moved 16 times before I started my senior year of high school, so I had to learn 17 addresses, phone numbers, groups of kids' names, and ways home. A routine part of outings was having my dad pull over and ask me how we had got there. I wasn't allowed to say 'left', or 'right', but had to describe every turn using compass bearings.</description>
+    <pubDate>Mon, 25 May 2020 14:53:11 -0500</pubDate>
+    <guid>http://schuessler.org/i-memorize-things</guid>
+  </item>
+  <item>
+    <title>The Curse of the Celestial Crown</title>
+    <link>http://schuessler.org/curse-of-the-celestial-crown</link>
+    <description>You, a private investigator and adventurer, have been hired to recover the Chinese zodiac, whose signs have fallen from the night sky. Your client is the Rat King, boss of the local underworld. You rendezvous with him in the Manhattan subway tunnels, where he has his lair.</description>
+    <pubDate>Sat, 25 Jan 2020 13:42:58 -0500</pubDate>
+    <guid>http://schuessler.org/curse-of-the-celestial-crown</guid>
+  </item>
+  <item>
+    <title>XOR Swap: Hittin' Switches on Bits</title>
+    <link>http://schuessler.org/switches-on-bits</link>
+    <description>Visual metaphors to explain XOR Swap</description>
+    <pubDate>Sun, 15 Sep 2019 15:52:42 -0500</pubDate>
+    <guid>http://schuessler.org/switches-on-bits</guid>
+  </item>
+  <item>
+    <title>Anthropomobi</title>
+    <link>http://schuessler.org/anthropomobi</link>
+    <description>Cartoons do the reasoning for you</description>
+    <pubDate>Sat, 07 Sep 2019 17:03:11 -0500</pubDate>
+    <guid>http://schuessler.org/anthropomobi</guid>
+  </item>
+  </channel>
+</rss>
