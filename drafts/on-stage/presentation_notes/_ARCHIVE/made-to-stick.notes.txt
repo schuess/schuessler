@@ -1,0 +1,190 @@
+Spectrum of "stickiness" from kidney heist to bureaucratese: how can we move ideas toward the sticky extreme?
+Sticky means main points are easy to understand and remember[, story is compelling to repeat], and it has lasting impact -- it changes opinions or behavior.
+
+How do we help true, valuable ideas be as successful as naturally sticky ideas?
+
+Like sparklines: sometimes we need to convey the ranges, too.
+Some advice is about delivery, some about the structure of a message. Know your audience. Repeat your message.
+
+Sometimes you don't have the luxury of repetition.
+
+Chip Heath, professor of organizational behavior at Stanford
+Dan Heath, entrepreneur, Harvard MBA (UT Plan II)
+
+Compare The Tipping Point and Crossing the Chasm -- how do ideas jump from small groups to large ones -- how do ideas gain critical mass?
+
+Contrast popcorn story with Halloween candy story.
+
+Sticky ideas have some attributes in common. We can also build skill in spotting them.
+
+Six principles for engineering sticky ideas:
+
+Simplicity -- strip the idea down to its core; coin a proverb; focus on the lede; be ruthless about pruning important things that aren't the *most* important thing; if you say multiple things, you don't say anything
+
+Unexpectedness -- surprise increases alertness and focus/attention; engage curiosity
+Concreteness -- things, metaphors, clear images
+Credibility -- man is the measure of all things; make it possible for people to judge themselves, build in a benchmark (themselves)
+Emotions -- what emotional response do you want? relate to people
+Stories -- add narrative, arcs, heroes/heroines; stories are mental flight simulators
+
+What is the villain that keeps ideas non-sticky? The Curse of Knowledge: You know exactly what you mean, so assume it is as clear to everyone else. It's hard to re-create their state of mind. Another argument for "beginner's mind".
+
+Goal of book: teach you how to transform your ideas to beat the curse of knowledge.
+
+The Fundamental Templates of Quality Ads: Extreme Consequences, ...
+
+There's a core, but that's just the bullseye of the target -- other concentric circles might express other values, as long as they don't impinge on the core value.
+
+Sure thing principle, choice changes based on options; core messages improve decision-making.
+
+"Don't start with something interesting but irrelevant.... Instead, work to make the core message itself more interesting."
+
+Cervantes's definition of "proverb": short sentences drawn from long experience.
+
+Overlap with The Art of Innovation -- Palm Pilot example: block of wood as "visual proverb"
+
+Use pointers to what people already know; schemata people already have.
+
+In psychology and cognitive science, a schema (plural schemata or schemas) describes a pattern of thought or behavior that organizes categories of information and the relationships among them. It can also be described as a mental structure of preconceived ideas, a framework representing some aspect of the world, or a system of organizing and perceiving new information. Schemata influence attention and the absorption of new knowledge: people are more likely to notice things that fit into their schema, while re-interpreting contradictions to the schema as exceptions or distorting them to fit. Schemata have a tendency to remain unchanged, even in the face of contradictory information. Schemata can help in understanding the world and the rapidly changing environment. People can organize new perceptions into schemata quickly as most situations do not require complex thought when using schema, since automatic thought is all that is required.
+
+https://en.wikipedia.org/wiki/Schema_(psychology)
+
+"If a message can't be used to make predictions or decisions, it is without value, no matter how accurate or comprehen- sive it is."
+
+I disagree with this -- it can be valuable as a fixed point to hang things from -- the posts behind your wall.
+
+Ration information: a little, then more as it gets assimilated
+
+Avoid the curse of knowledge and use schemas with analogies.
+
+Hollywood high-concept pitches
+
+Good metaphors create new ideas
+
+Surprise gets our attention; interest keeps our attention. Surprise can just mean a change.
+
+Schemas are "guessing machines": heuristics
+
+Evolutionary advantage of emotions: surprise gets attention, time to stop and think/regroup, fix guessing machine.
+
+Surprise has to make sense afterward: be post-dictable
+
+recipe:
+
+"So, a good process for making your ideas stickier is: (1) Identify the central message you need to communicate—find the core; (2) Figure out what is counterintuitive about the message —i.e., What
+are the unexpected implications of your core message? Why isn't it already happening naturally? (4) Communicate your message in a way that breaks your audience's guessing machines along the critical, counterintuitive dimension. Then, once their guessing machines
+have failed, help them refine their machines."
+
+if it sounds like common sense, people think they already get it. "Expose the parts of your message that are uncommon sense."
+
+No school next Thursday: I got it ;)
+
+===============
+notes from yellow notebook
+
+SIMPLE
+Generative metaphors: Disney employees are "performers" -- this is partly a guide for their actions
+Help people remember a process by substituting something easy to think about for something difficult to think about
+
+Find the core and compress it -- coin a proverb if possible
+
+UNEXPECTED
+How to GET and KEEP interest
+get interest by doing something unexpected: surprise them; break their pattern-matchers; change something
+break their guessing machines/break schemas to get attention
+
+! get interest with surprise; sustain interest with mystery
+
+Curiosity: the intellectual need to answer questions and close open patterns
+Story engages curiosity [this is strange actually...] by posing questions and opening new situations
+story complements curiosity
+
+Turning Points engage curiosity 
+Gap Theory of interest: point out gaps in knowledge, ask for guesses, which creates another gap: Was I right?
+
+Concept Testing
+Provide context to make people care (college sports)
+drop clues, unlock levels, reveal information slowly
+Curiosity is driven by pain; knowledge gaps are painful, people want to fill them
+
+CONCRETE
+!Concrete stuff is easier to understand and remember, easier to communicate, leads to more consistency in interpretation than abstract explanation
+
+Name things: landscapes, concepts -- make them celebrities
+Velcro Memory metaphor: provide lots of little hooks
+Create a Universal Language: it will likely be concrete, not abstract [link to Domain driven design]
+personae in ui design are a way to make things concrete [link to a book here]
+
+CREDIBLE
+
+An "anti-authority" can be as credible as an authority
+Internal consistency helps make something credible
+Not mentioned, but correct spelling, beautiful formatting, suits make things more credible too
+
+Details make things credible; concrete details make things more memorable too
+Use statistics to illustrate a *relationship*, not to persuade on their own; the exact number is not important, but the relationship is
+
+Translate to human scale: $500 per person means saving 1-2 minutes per person daily
+The Sinatra Test
+If possible, highlight a genuine advantage
+Make claims personally testable:Where's the beef? Are you better off today than four years ago?
+
+EMOTIONAL
+
+How to make people care
+
+EMOTIONAL
+
+How to make people care
+
+inspire emotional responses via individuals, vs analytical responses via calculation
+associations are colors on the emotional palette
+"Semantic stretch" -- emotional colors get washed out, so be original if possible
+Tap into things people already care about, but avoid emotional cliches
+Most people care about themselves
+Caples, WIIFY, self-interest
+Get people to imagine themselves in a position -- just say, "Imagine you are..."
+We don't usually go beyond esteem and belonging on Maslow's hierarchy, but that's due to an asymmetry in our expections of ourselves vs others
+We are at the top of the pyramid, others are at the bottom
+Stay out of Maslow's basement
+"I am in charge of morale"
+Self-interest is effective in the short term, but usually "trifling" in influence
+Group membership is more compelling: Link to Godin
+What's in it for my Group? WIIFMG?
+Decision tree: utility vs identity (decisions based on norms and principles)
+bubba/don't mess with Texas example
+
+3-5 whys: get the benefit of the benefit
+simulations help people *realize* -- "make real"; this creates room for empathy
+Important to separate identity strategy from good copywriting of Don't Mess with Texas
+
+simple summary:
+use associations
+appeal to self-interest
+appeal to identity
+
+when answering "What's in it for me?" stay out of Maslow's basement
+tell a story that allows your listeners to play along, to simulate, to empathize
+stories provide context, have a moral. Not passive.
+
+numbers are not concrete!
+
+INSPIRATIONAL stories:
+Challenge, Connection, Creativity (McGyver)
+
+Find your good ideas and make them quotable: "War is hell", "Nice guys finish last", "Elementary, my dear Watson"
+
+Don't bury the lead: No school next Thursday
+Communication means impact
+Impact means:
+Pay attention
+Understand and remember
+Agree and Believe
+Care
+(Be able to ) Act
+
+For businesses, external communication is often far more sophisticated than internal communication -- they know who they are talking to and how to talk
+
+"A strategy is a guide to behavior"/Stories elucidate strategies and guide behavior
+
+Obstacles: Curse of Knowledge, Decision Paralysis, Lack of a common language
