@@ -1,12 +1,17 @@
 copy in template
 in vim: :r ../TEMPLATE.html
 
+add date with vim \dt shortcut
+add title in h1 tags
+add Title in <title> tags
 
-add navigation header and footer
+add short link to sch.us .htaccess file
+add short link to document
 
+update navigation header
+copy navigation header to footer (replace template footer)
 
-
-update navigation
 update old files navigation to last (>>)
-update most recent navication to next (>) (can automate this from current file)
+update most recent navigation to next (>) (can automate this from current file)
 
+add entry to xml feed
