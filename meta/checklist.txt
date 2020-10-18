@@ -1,17 +1,55 @@
-copy in template
-in vim: :r ../TEMPLATE.html
+do I want | schuessler.org as part of my title? Maybe not?
+export TITLE=<title>
+export LTITLE=$(echo $TITLE | tr A-Z a-z | tr " " "-").html
+echo $TITLE
+echo $LTITLE
+cp TEMPLATE.html $LTITLE
+insert mode C-r =$TITLE to insert title
 
-add date with vim \dt shortcut
 add title in h1 tags
-add Title in <title> tags
-
-add short link to sch.us .htaccess file
-add short link to document
+add Title in top <title> tag
+change left arrow nav '<' to be previous entry: use relative file format with .html suffix, e.g., ./switches-on-bits  [use .html because I can then navigate to files in this directory, too!]
+find Date, cw \dt
 
 update navigation header
 copy navigation header to footer (replace template footer)
 
-update old files navigation to last (>>)
+add short link to sch.us .htaccess file
+add short link to document?
+
+update previous file < to previous
+go to beginning of nav
+yank to pipe: y /|
+paste below
+change link to $LTITLE
+change title to $TITLE
+change < to >
+yank and insert line
+add <space>|<space>
+change new > to >>
+C-j all lines together
+cp nav to bottom of file
+cp > and >> nav to all previous files (use gf to navigate?) top and bottom
+check that I did top and bottom nav for all files (make a bot that checks links)
+
+
+update all previous posts' navs to last (>>) top and bottom
 update most recent navigation to next (>) (can automate this from current file)
 
+
+download txt format
+:r file into html doc
+
+
+<h2>...
+<p> start even if unnecessary
+Text
+</p><p>
+Close then start...
+
+update links page
+update url shortener at sch.us
 add entry to xml feed
+post to twitter
+
+check everything in
