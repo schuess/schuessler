@@ -8,7 +8,7 @@ insert mode C-r =$TITLE to insert title
 
 add title in h1 tags
 add Title in top <title> tag
-change left arrow nav '<' to be previous entry: use relative file format with .html suffix, e.g., ./switches-on-bits  [use .html because I can then navigate to files in this directory, too!]
+change left arrow nav '<' to be previous entry: use relative file format withOUT .html suffix, e.g., ./switches-on-bits  [use .html because I can then navigate to files in this directory, too!]
 find Date, cw \dt
 
 update navigation header
