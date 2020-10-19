@@ -53,11 +53,6 @@ div.c {
   text-align: center;
 }
 
-h3 h4 {
-  color: #333333;
-  margin-bottom: 4px;
-}
-
 a {
   text-decoration:none;
 }
@@ -147,4 +142,18 @@ th, td {
 
 .footnote {
   font-size: 0.8em;
+}
+
+img {
+  margin:30px;
+}
+
+h3, h4 {
+  color: #333333;
+  margin-top: 1.2em;
+  margin-bottom: 4px;
+}
+
+h2 {
+  margin-top:1.8em; 
 }
