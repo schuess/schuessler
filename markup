@@ -1,5 +1,0 @@
-# get a shortcut to add a single/double paragraph market (double is close, then open)
-
-:%s!^$!</p><p>
-:%s!### (.*)!<h3>\1<\/h3>
-:%s!## (.*)!<h2\1<\/h2>
